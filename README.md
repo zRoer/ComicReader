@@ -1,4 +1,6 @@
 ComicReader
 ===========
 
-A ComicReader developed by Python
+A very simple Comic Reader developed by Python
+
+
